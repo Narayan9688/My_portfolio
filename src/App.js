@@ -3,7 +3,7 @@ import styled,{ThemeProvider} from 'styled-components'
 import {useState,useEffect} from 'react';
 import {darkTheme, lightTheme} from './utils/Themes'
 import Navbar from './component/Navbar';
-import Hero from './component/HeroSection';
+import HeroSection from './component/HeroSection';
 import Skills from './component/Skills';
 import Contact from './component/Contact';
 import Projects from './component/Projects';
@@ -38,7 +38,7 @@ function App() {
        <Navbar />
        <Body>
 
-         <Hero/>
+         <HeroSection/>
          <Wrapper>
            <Skills />
            <Experience/>

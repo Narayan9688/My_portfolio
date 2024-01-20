@@ -14,7 +14,6 @@ export const Bio = {
     linkedin: "https://www.linkedin.com/in/narayan-patidar-pinnu/",
     twitter: "https://twitter.com/Narayan01092001/",
     insta: "https://www.instagram.com/narayan_pinnu12/",
-    facebook: "",
   };
   
   export const skills = [
@@ -209,7 +208,7 @@ export const Bio = {
       description:
         "Developed 'Movix,' a dynamic web application utilizing React, Redux, and SCSS, offering users a seamless experience to search, explore, and rate movies and TV shows. The application features trending categories, detailed information, and trailers. With plans to enhance user engagement, future iterations will include user sign-in functionality for personalized interactions and ratings.",
       image:
-        "https://private-user-images.githubusercontent.com/97383203/297406654-66aaff1e-15f8-4327-a55c-784efb3c9a32.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1MDExNjQsIm5iZiI6MTcwNTUwMDg2NCwicGF0aCI6Ii85NzM4MzIwMy8yOTc0MDY2NTQtNjZhYWZmMWUtMTVmOC00MzI3LWE1NWMtNzg0ZWZiM2M5YTMyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE3VDE0MTQyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmOWU4MTFlNGQ5ZDE5NTIyMWNmYzY5N2VmMDg5MzlhZGI3YzRkNjVjZjAzOTJlZmZiNmI4MjA4NGM3ZjU0NzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6e9h2xQwvyJHKWCaLxP4BMD1iCFBFeq0htr7FAYkKIU",
+        "https://user-images.githubusercontent.com/97383203/297406654-66aaff1e-15f8-4327-a55c-784efb3c9a32.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1MDExNjQsIm5iZiI6MTcwNTUwMDg2NCwicGF0aCI6Ii85NzM4MzIwMy8yOTc0MDY2NTQtNjZhYWZmMWUtMTVmOC00MzI3LWE1NWMtNzg0ZWZiM2M5YTMyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE3VDE0MTQyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmOWU4MTFlNGQ5ZDE5NTIyMWNmYzY5N2VmMDg5MzlhZGI3YzRkNjVjZjAzOTJlZmZiNmI4MjA4NGM3ZjU0NzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6e9h2xQwvyJHKWCaLxP4BMD1iCFBFeq0htr7FAYkKIU",
       tags: [
         "JavaScript",
         "React Js",
@@ -230,7 +229,7 @@ export const Bio = {
       description:
         "Engineered a dynamic single-page website through HTML, CSS, and JavaScript during my internship, demonstrating a keen eye for design and seamless user interaction. This project underscores my ability to translate concepts into code, emphasizing both aesthetics and functionality for an enriched web experience.",
       image:
-        "https://private-user-images.githubusercontent.com/97383203/297487067-c21a2170-51e7-4132-9070-a87258b66f7a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1MTgyMjksIm5iZiI6MTcwNTUxNzkyOSwicGF0aCI6Ii85NzM4MzIwMy8yOTc0ODcwNjctYzIxYTIxNzAtNTFlNy00MTMyLTkwNzAtYTg3MjU4YjY2ZjdhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE3VDE4NTg0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM2OTc5NGFlOWJjY2E1N2FkOGRlNjRkMDE0ZDdlN2UyOGIxMzU3MTc5MDIzZjE1MDkxMzM4MDQ2N2JmZWZlYjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.h-Ak_2a6bel-GoSYvhibJKnuqt6blltVThEmrvGYO-Y",
+        "https://user-images.githubusercontent.com/97383203/297487067-c21a2170-51e7-4132-9070-a87258b66f7a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1MTgyMjksIm5iZiI6MTcwNTUxNzkyOSwicGF0aCI6Ii85NzM4MzIwMy8yOTc0ODcwNjctYzIxYTIxNzAtNTFlNy00MTMyLTkwNzAtYTg3MjU4YjY2ZjdhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE3VDE4NTg0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM2OTc5NGFlOWJjY2E1N2FkOGRlNjRkMDE0ZDdlN2UyOGIxMzU3MTc5MDIzZjE1MDkxMzM4MDQ2N2JmZWZlYjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.h-Ak_2a6bel-GoSYvhibJKnuqt6blltVThEmrvGYO-Y",
       tags: ["Html", "Css", "JavaScript"],
       category: "web app",
       github: "https://github.com/Narayan9688/video_conference_website",
@@ -243,6 +242,24 @@ export const Bio = {
           github: "https://github.com/Narayan9688",
         },
       ]
+    },
+
+    {
+      id: 1,
+      title: "TIC-TAC-TOE",
+      date: "Jun 2022 - Sep 2022",
+      description:
+        " created a simple Tic Tac Toe game using JavaScript and HTML, showcasing your ability to implement interactive web applications.",
+      image:
+        "https://user-images.githubusercontent.com/97383203/298278058-b243da41-53bf-47d0-9e9e-7ef4d60abc8b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU3NDkzMDQsIm5iZiI6MTcwNTc0OTAwNCwicGF0aCI6Ii85NzM4MzIwMy8yOTgyNzgwNTgtYjI0M2RhNDEtNTNiZi00N2QwLTllOWUtN2VmNGQ2MGFiYzhiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIwVDExMTAwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmMmZmMmE3NDk1NWQzZDM4YjZhNjg3YmU5ZmRjZjNiMzhkZjM0NjAzM2EyMmFmYzFmYjU2ZjU1MmU0YWFkNjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.qkuTHj4xefgq19geJMNHVdHA8eRq5kwjqgvXgM_B5e8",
+      tags: [
+        "JavaScript",
+        "HTML",
+
+      ],
+      category: "web app",
+      github: "https://github.com/Narayan9688/tic-tok-tie2-project",
+      webapp: "https://tic-tok-tie-malasada-db086c.netlify.app/",
     },
    
   ];

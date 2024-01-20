@@ -118,7 +118,7 @@ const Projects = ({openModal,setOpenModal}) => {
         <Wrapper>
           <Title>Projects</Title>
           <Desc>
-          Presenting a selection of my accomplished projects, with a commitment to continuous improvement and an ongoing dedication to building innovative solutions.<br/> Here are some of my projects.
+          Presenting a selection of my accomplished projects, with a commitment to continuous improvement and an ongoing dedication to building innovative solutions.<br/> Here are some of my projects, <br/> '''please click on these projects for more details'''.
           </Desc>
           <ToggleButtonGroup >
             {toggle === 'all' ?

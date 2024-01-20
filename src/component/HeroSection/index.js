@@ -214,7 +214,7 @@ const Img = styled.img`
 
 
 
-const Hero = () => {
+const HeroSection = () => {
   return (
     <div id='about'>
       <HeroContainer>
@@ -222,7 +222,7 @@ const Hero = () => {
           <HeroBgAnimation/>
         </HeroBg>
         <HeroInnerContainer>
-          <HeroLeftContainer>
+          <HeroLeftContainer id='Left'>
             <Title>
               Hi, i am <br/>{Bio.name}
             </Title>
@@ -241,13 +241,15 @@ const Hero = () => {
                         <SubTitle>{Bio.description}</SubTitle>
                         <ResumeButton href={Bio.resume} target='display'>Check Resume</ResumeButton>
           </HeroLeftContainer>
-        <HeroRightContainer>
+
+        <HeroRightContainer id='Righ'>
            <Img src={HeroImg} alt="hero-image"/>
         </HeroRightContainer>
         </HeroInnerContainer>
+        
       </HeroContainer>
     </div>
   )
 }
 
-export default Hero
+export default HeroSection
